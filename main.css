@@ -1,0 +1,45 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+.good-boy{
+    background-color: rgb(38, 223, 223);
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 1opx;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: inline-block;
+
+}
+.bad-boy{
+    background-color: rgb(218, 123, 8);
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 1opx;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: inline-block;
+}
+ol {
+    text-align: center;
+    background-color: brown;
+    border-radius: 15px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+form{
+    text-align: center;
+    margin-top: 30px;
+}
+.abc{
+    text-align: center;
+}
